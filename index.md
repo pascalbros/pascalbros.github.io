@@ -3,8 +3,10 @@
 I'm an indie Software Engineer passionate about mobile and game development. 
 iOS Developer since 2010, interested in IoT, Embedded systems and AI, comfortable with other languages such as C, C++, C#, JavaScript and Java.
 
+{:refdef: style="text-align: center;"}
 [![alt text](imgs/linkedin-icon.png)](https://www.linkedin.com/in/pasquale-ambrosini-77764531/)
 [![alt text](imgs/github-icon.png)](https://github.com/pascalbros)
 [![alt text](imgs/twitter-icon.png)](https://twitter.com/PascalAmbro)
+{: refdef}
 
 `//TODO`
