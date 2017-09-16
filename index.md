@@ -5,7 +5,15 @@ iOS Developer since 2010, interested in IoT, Embedded systems and AI, comfortabl
 
 {:refdef: style="text-align: center;"}
 [![alt text](imgs/linkedin-icon.png)](https://www.linkedin.com/in/pasquale-ambrosini-77764531/)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 [![alt text](imgs/github-icon.png)](https://github.com/pascalbros)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 [![alt text](imgs/twitter-icon.png)](https://twitter.com/PascalAmbro)
 {: refdef}
 
