@@ -1,5 +1,6 @@
-## Pasquale Ambrosini
+## Pasquale (or Pascal) Ambrosini
 
-Pasquale (or Pascal) is an indie Software Engineer who is passionate about mobile and game development. He has been engineering iOS apps since 2010 but he is comfortable with other languages such as C, C++, C#, JavaScript and Java.
+I'm an indie Software Engineer passionate about mobile and game development. 
+iOS Developer since 2010, interested in IoT, Embedded systems and AI, comfortable with other languages such as C, C++, C#, JavaScript and Java.
 
 `//TODO`
